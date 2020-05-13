@@ -6,4 +6,4 @@ This is latest commit
 Bella ciao!!
 SNOW DevopsTest
 For DevOps pipeline
-This is for test purpose.
+This is for test purpose...
